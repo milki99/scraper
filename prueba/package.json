@@ -1,0 +1,27 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "Prueba de libreria de scraping",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milki99/scraper.git"
+  },
+  "keywords": [
+    "scraper",
+    "web",
+    "javascript"
+  ],
+  "author": "francotzar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milki99/scraper/issues"
+  },
+  "homepage": "https://github.com/milki99/scraper#readme",
+  "dependencies": {
+    "nodejs-web-scraper": "^3.2.0"
+  }
+}
